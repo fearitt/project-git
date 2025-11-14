@@ -1,0 +1,11 @@
+C:\Users\yabujin\source\repos\project git\project git\bin\Debug\project git.exe.config
+C:\Users\yabujin\source\repos\project git\project git\bin\Debug\project git.exe
+C:\Users\yabujin\source\repos\project git\project git\bin\Debug\project git.pdb
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project git.csproj.AssemblyReference.cache
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project_git.Form1.resources
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project_git.Form2.resources
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project_git.Properties.Resources.resources
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project git.csproj.GenerateResource.cache
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project git.csproj.CoreCompileInputs.cache
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project git.exe
+C:\Users\yabujin\source\repos\project git\project git\obj\Debug\project git.pdb
