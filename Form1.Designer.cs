@@ -33,13 +33,14 @@
             // 
             // buttonOpen
             // 
+            this.buttonOpen.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonOpen.Location = new System.Drawing.Point(328, 191);
             this.buttonOpen.Name = "buttonOpen";
             this.buttonOpen.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.buttonOpen.Size = new System.Drawing.Size(75, 23);
             this.buttonOpen.TabIndex = 0;
             this.buttonOpen.Text = "Открыть";
-            this.buttonOpen.UseVisualStyleBackColor = true;
+            this.buttonOpen.UseVisualStyleBackColor = false;
             this.buttonOpen.Click += new System.EventHandler(this.buttonOpen_Click_1);
             // 
             // Form1
