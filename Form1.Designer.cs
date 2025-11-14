@@ -33,11 +33,12 @@
             // 
             // buttonOpen
             // 
-            this.buttonOpen.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.buttonOpen.Location = new System.Drawing.Point(328, 191);
+            this.buttonOpen.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.buttonOpen.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.buttonOpen.Location = new System.Drawing.Point(320, 189);
             this.buttonOpen.Name = "buttonOpen";
             this.buttonOpen.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.buttonOpen.Size = new System.Drawing.Size(75, 23);
+            this.buttonOpen.Size = new System.Drawing.Size(125, 35);
             this.buttonOpen.TabIndex = 0;
             this.buttonOpen.Text = "Открыть";
             this.buttonOpen.UseVisualStyleBackColor = false;
